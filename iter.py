@@ -14,8 +14,8 @@ class StudentGrades():
 s=StudentGrades()
 
 s.addStudent("Sumeyye",30)
-s.addStudent("Ayse",70)
-s.addStudent("Meltem",50)
+s.addStudent("Ahmet",70)
+s.addStudent("Melike",50)
 s.addStudent("Nisa",80)
 s.addStudent("Zeki",45)
 
